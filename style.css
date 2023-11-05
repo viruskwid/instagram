@@ -1,0 +1,184 @@
+a{
+    text-decoration: none;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+}
+.gradient{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(249, 19, 107), rgb(251, 167, 12));
+    padding: 3px;
+  }
+  
+.story{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: white;
+  }
+.username a{
+    text-decoration: none;
+    color: black;
+   ;
+}
+.username{
+    font-size: 9pt;
+    font-family: 'Merriweather', serif;
+}
+.profile{
+    width: 18px;
+    height: 18px;
+}
+
+.gradientmsg{
+    width: 54px;
+    height: 54px;
+}
+.message{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: white;   
+}
+td a{
+    text-decoration: none;
+    font-weight: 100; 
+    color: black;
+}
+
+.follow{
+    margin-left: 40px;
+    color: rgb(0, 55, 255);
+}
+
+.footer a,span{
+    text-decoration: none;
+    color: rgb(156, 155, 155);
+}
+.main-feed{
+    margin-right: 90px;
+}
+
+
+.post{
+    width: 600px;
+    height: 700px;
+}
+.post-img{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.link{
+    font-size: 9pt;
+    margin-left: 60px;
+    color: rgb(0, 55, 255);
+    font-family: 'Roboto Slab', serif;
+}
+.dots{
+    margin-left: 450px;
+}
+.like{
+   font-size: 23px;
+}
+.fav{
+    margin-left: 168px;
+}
+span input{
+    border: none;
+}
+.hert:hover{
+    color: rgb(238, 4, 78);
+}
+.gradientfed{
+    width: 47px;
+    height: 47px;
+}
+.fed{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: white; 
+}
+.post2{
+    margin-top: 277px;
+}
+.poster{
+    font-size: 16px;
+    
+}
+.poster a{
+    text-decoration: none;
+    color: black;
+}
+
+.black{
+    color: black;
+}
+span a{
+    color: black;
+}
+.sidebar h3{
+    font-family: 'Pacifico', cursive;
+}
+li a:hover{
+    background-color: rgb(198, 196, 196);
+    border-radius: 5px;
+}
+.mes-section2 p{
+    font-family: 'Roboto Mono', monospace;
+}
+.new{
+    font-size: small;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer a{
+    font-size: small;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.footer span{
+    color: rgb(182, 178, 178);
+    font-size: small;
+    font-family: 'Rubik', sans-serif;
+}
+.bet{
+    font-size: 10pt;
+    font-family: 'Roboto Slab', serif  
+}
+.sidebar{
+    margin-left: -92px;
+    position: fixed;
+}
+.fen{
+    margin-left: -100px;
+}
+.feed{
+    margin-left: -20px;
+}
+.posts{
+    margin-left: 30px;
+}
+.last{
+    margin-top: 90px;
+    margin-left: 60px;
+}
+.see{
+    margin-left: 80px;
+}
+.footer{
+    margin-right: -30px;
+}
+.det{
+    margin-left: 70px;
+}
